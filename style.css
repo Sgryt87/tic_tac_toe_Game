@@ -1,0 +1,19 @@
+body {
+    font-family: Arial;
+}
+
+.inbox {
+    height: 50px;
+    width: 50px;
+    margin: 1px;
+    background: #c2c2c2;
+    text-align: center;
+}
+
+.inbox:hover {
+    background: #e2e2e2;
+}
+
+.box {
+    float: left;
+}
